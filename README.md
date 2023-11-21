@@ -93,4 +93,6 @@ TaskSync Pro is a React Native and TypeScript-based mobile application designed 
    ```bash
    git clone https://github.com/shahadot786/tasksync-pro.git
    cd tasksync-pro
+   yarn install
+   yarn start
    ```
